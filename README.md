@@ -3,5 +3,5 @@
 # Video darslik:
 
 
-# DEMO:
+# Demo:
 https://pizzauz.netlify.app/
